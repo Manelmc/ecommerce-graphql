@@ -1,2 +1,2 @@
 # ecommerce-graphql
-GraphQL example based on a e-commerce site
+A very simple GraphQL example based on an e-commerce site implemented in python with graphene.
